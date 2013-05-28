@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>blog2</title><link href="http://wodniok.github.io/blog2/" rel="alternate"></link><link href="http://wodniok.github.io/blog2/feeds/all.atom.xml" rel="self"></link><id>http://wodniok.github.io/blog2/</id><updated>2013-05-28T14:17:02Z</updated></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>blog2</title><link href="http://wodniok.github.io/blog2/" rel="alternate"></link><link href="http://wodniok.github.io/blog2/feeds/all.atom.xml" rel="self"></link><id>http://wodniok.github.io/blog2/</id><updated>2013-05-26T23:17:00+02:00</updated><entry><title>My title</title><link href="http://wodniok.github.io/blog2/my-first-post.html" rel="alternate"></link><updated>2013-05-26T23:17:00+02:00</updated><author><name>wodniok</name></author><id>tag:wodniok.github.io/blog2,2013-05-26:my-first-post.html</id><summary type="html">&lt;p&gt;This is my first &lt;strong&gt;post&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;rm&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;f&lt;/span&gt; &lt;span class="o"&gt;*&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The new &lt;a href="http://wodniok.github.io/blog2"&gt;site&lt;/a&gt;&lt;/p&gt;</summary><category term="note"></category></entry></feed>
