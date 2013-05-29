@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>blog2</title><link href="http://wodniok.github.io/blog2/" rel="alternate"></link><link href="http://wodniok.github.io/blog2/feeds/all.atom.xml" rel="self"></link><id>http://wodniok.github.io/blog2/</id><updated>2013-05-26T23:17:00+02:00</updated><entry><title>My title</title><link href="http://wodniok.github.io/blog2/my-first-post.html" rel="alternate"></link><updated>2013-05-26T23:17:00+02:00</updated><author><name>wodniok</name></author><id>tag:wodniok.github.io/blog2,2013-05-26:my-first-post.html</id><summary type="html">&lt;p&gt;This is my first &lt;strong&gt;post&lt;/strong&gt;.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>blog2</title><link href="http://wodniok.github.io/blog2/" rel="alternate"></link><link href="http://wodniok.github.io/blog2/feeds/all.atom.xml" rel="self"></link><id>http://wodniok.github.io/blog2/</id><updated>2013-05-29T23:17:00+02:00</updated><entry><title>My image title</title><link href="http://wodniok.github.io/blog2/my-second-image-post.html" rel="alternate"></link><updated>2013-05-29T23:17:00+02:00</updated><author><name>wodniok</name></author><id>tag:wodniok.github.io/blog2,2013-05-29:my-second-image-post.html</id><summary type="html">&lt;h6&gt;&lt;/h6&gt;
+&lt;p&gt;:date: 2012-12-01 10:02&lt;/p&gt;
+&lt;p&gt;See below intra-site link examples in reStructuredText format.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;a link relative to content root &amp;lt;|black|/static/images/black.png&lt;/code&gt;&lt;em&gt;
+&lt;code&gt;a link relative to current file &amp;lt;|filename|cat/article2.md&amp;gt;&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Link mit Pfad static/..
+&lt;img alt="TheBlackLogo" src="static/images/yello.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Link mit ./static&lt;/p&gt;
+&lt;p&gt;&lt;img alt="TheBlackLogo" src="./static/images/yello.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Eine Liste&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;eins&lt;/li&gt;
+&lt;li&gt;zwei&lt;/li&gt;
+&lt;li&gt;drei&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Einmal &lt;strong&gt;fett&lt;/strong&gt; und einmal &lt;strong&gt;kursiv&lt;/strong&gt;&lt;/p&gt;</summary><category term="note"></category></entry><entry><title>My title</title><link href="http://wodniok.github.io/blog2/my-first-post.html" rel="alternate"></link><updated>2013-05-26T23:17:00+02:00</updated><author><name>wodniok</name></author><id>tag:wodniok.github.io/blog2,2013-05-26:my-first-post.html</id><summary type="html">&lt;p&gt;This is my first &lt;strong&gt;post&lt;/strong&gt;.&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;rm&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;f&lt;/span&gt; &lt;span class="o"&gt;*&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
