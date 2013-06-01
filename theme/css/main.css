@@ -13,14 +13,25 @@
 @import url("pygment.css");
 @import url("typogrify.css");
 @import url(//fonts.googleapis.com/css?family=Yanone+Kaffeesatz&subset=latin);
+@import url(http://fonts.googleapis.com/css?family=Copse);
+@import url(http://fonts.googleapis.com/css?family=PT+Serif&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Domine&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=PT+Serif+Caption&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Noto+Sans&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Ubuntu&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Source+Code+Pro&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700,800&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Gentium+Book+Basic&subset=latin,latin-ext);
 
 /***** Global *****/
 /* Body */
 body {
-    background: #F5F4EF;
+    background: #fff;
     color: #000305;
-    font-size: 87.5%; /* Base font size: 14px */
-    font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+/*    font-size: 87.5%;  Base font size: 14px */
+    font-size: 100%; /* Base font size: 14px */
+/*  font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+    font-family: 'Gentium Book Basic', serif;
     line-height: 1.429;
     margin: 0;
     padding: 0;
@@ -36,10 +47,10 @@ h5 {font-size: 1.143em}	/* 16px */
 h6 {font-size: 1em}		/* 14px */
 
 h1, h2, h3, h4, h5, h6 {
-	font-weight: 400;
+	font-weight: 700;
 	line-height: 1.1;
 	margin-bottom: .8em;
-    font-family: 'Yanone Kaffeesatz', arial, serif;
+    font-family: 'Open Sans',  sans-serif;
 }
 
 h3, h4, h5, h6 { margin-top: .8em; }
