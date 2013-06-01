@@ -16,22 +16,30 @@
 @import url(http://fonts.googleapis.com/css?family=Copse);
 @import url(http://fonts.googleapis.com/css?family=PT+Serif&subset=latin,latin-ext);
 @import url(http://fonts.googleapis.com/css?family=Domine&subset=latin,latin-ext);
-@import url(http://fonts.googleapis.com/css?family=PT+Serif+Caption&subset=latin,latin-ext);
 @import url(http://fonts.googleapis.com/css?family=Noto+Sans&subset=latin,latin-ext);
 @import url(http://fonts.googleapis.com/css?family=Ubuntu&subset=latin,latin-ext);
 @import url(http://fonts.googleapis.com/css?family=Source+Code+Pro&subset=latin,latin-ext);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700,800&subset=latin,latin-ext);
 @import url(http://fonts.googleapis.com/css?family=Gentium+Book+Basic&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Merriweather&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Merriweather+Sans&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Old+Standard+TT);
+
+@import url(http://fonts.googleapis.com/css?family=PT+Serif+Caption&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700&subset=latin,latin-ext);
+
+@import url(http://fonts.googleapis.com/css?family=Vollkorn);
+
 
 /***** Global *****/
 /* Body */
 body {
     background: #fff;
     color: #000305;
-/*    font-size: 87.5%;  Base font size: 14px */
-    font-size: 100%; /* Base font size: 14px */
+/*  font-size: 87.5%;  Base font size: 14px */
+    font-size: 110%; /* Base font size: 14px */
 /*  font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
-    font-family: 'Gentium Book Basic', serif;
+    font-family: 'Vollkorn', serif;
     line-height: 1.429;
     margin: 0;
     padding: 0;
@@ -50,7 +58,8 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 700;
 	line-height: 1.1;
 	margin-bottom: .8em;
-    font-family: 'Open Sans',  sans-serif;
+    font-family: 'PT Sans Narrow',  sans-serif;
+    color: #002126;  */
 }
 
 h3, h4, h5, h6 { margin-top: .8em; }
@@ -61,12 +70,13 @@ hr { border: 2px solid #EEEEEE; }
 a {outline: 0;}
 a img {border: 0px; text-decoration: none;}
 a:link, a:visited {
-	color: #C74350;
+ /*   color: #002126;  */
+    color: #812126;  */
 	padding: 0 1px;
 	text-decoration: underline;
 }
 a:hover, a:active {
-	background-color: #C74350;
+	background-color: #002126;
 	color: #fff;
 	text-decoration: none;
 	text-shadow: 1px 1px 1px #333;
@@ -180,7 +190,8 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	}
 	#banner h1 a:hover, #banner h1 a:active {
 		background: none;
-		color: #C74350;
+/*		color: #002126; */
+		color: #002126;
 		text-shadow: none;
 	}
 	
@@ -214,7 +225,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	}
 	#banner nav a:hover, #banner nav a:active,
 	#banner nav .active a:link, #banner nav .active a:visited {
-		background: #C74451;
+		background: #812126;
 		color: #fff;
 		text-shadow: none !important;
 	}
@@ -252,10 +263,10 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 }
 #featured figure img {display: block; float: right;}
 
-#featured h2 {color: #C74451; font-size: 1.714em; margin-bottom: 0.333em;}
+#featured h2 {color: #812126; font-size: 1.714em; margin-bottom: 0.333em;}
 #featured h3 {font-size: 1.429em; margin-bottom: .5em;}
 
-#featured h3 a:link, #featured h3 a:visited {color: #000305; text-decoration: none;}
+#featured h3 a:link, #featured h3 a:visited {color: #100305; text-decoration: none;}
 #featured h3 a:hover, #featured h3 a:active {color: #fff;}
 
 /*
@@ -281,7 +292,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 #extras ul {list-style: none; margin: 0;}
 #extras li {border-bottom: 1px solid #fff;}
 #extras h2 {
-	color: #C74350;
+	color: #002126;
 	font-size: 1.429em;
 	margin-bottom: .25em;
 	padding: 0 3px;
@@ -383,7 +394,7 @@ li:last-child .hentry, #content > .hentry {border: 0; margin: 0;}
 #content > .hentry {padding: 1em 0;}
 .hentry img{display : none ;}
 .entry-title {font-size: 3em; margin-bottom: 10px; margin-top: 0;}
-.entry-title a:link, .entry-title a:visited {text-decoration: none; color: #333;}
+.entry-title a:link, .entry-title a:visited {text-decoration: none; color: #812126;}
 .entry-title a:visited {background-color: #fff;}
 
 .hentry .post-info * {font-style: normal;}
