@@ -62,7 +62,7 @@ a:link, a:visited {
  /*   color: #002126;  */
     color: #812126;  */
 	padding: 0 1px;
-	text-decoration: underline;
+/*	text-decoration: underline; */
 }
 a:hover, a:active {
 	background-color: #002126;
