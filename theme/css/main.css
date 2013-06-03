@@ -30,6 +30,7 @@
 
 @import url(http://fonts.googleapis.com/css?family=Vollkorn);
 
+@import url(http://fonts.googleapis.com/css?family=Lato);
 
 /***** Global *****/
 /* Body */
@@ -39,7 +40,7 @@ body {
 /*  font-size: 87.5%;  Base font size: 14px */
     font-size: 110%; /* Base font size: 14px */
 /*  font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
-    font-family: 'Vollkorn', serif;
+    font-family: 'Lato', sans-serif;
     line-height: 1.429;
     margin: 0;
     padding: 0;
