@@ -7,7 +7,7 @@ dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
 invidunt ut &lt;em&gt;labore&lt;/em&gt; et dolore magna aliquyam erat, sed diam voluptua. At vero
 eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no
 sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;ls&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;l&lt;/span&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span class="n"&gt;ls&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;l&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
@@ -33,7 +33,7 @@ sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;</summary><categor
 &lt;li&gt;drei&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Einmal &lt;strong&gt;fett&lt;/strong&gt; und einmal &lt;em&gt;kursiv&lt;/em&gt;&lt;/p&gt;</summary><category term="note"></category></entry><entry><title>My title</title><link href="http://eigenwerk.net/my-first-post.html" rel="alternate"></link><updated>2013-05-26T23:17:00+02:00</updated><author><name>wodniok</name></author><id>tag:eigenwerk.net,2013-05-26:my-first-post.html</id><summary type="html">&lt;p&gt;This is my first &lt;strong&gt;post&lt;/strong&gt;.&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;rm&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;f&lt;/span&gt; &lt;span class="o"&gt;*&lt;/span&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span class="n"&gt;rm&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;f&lt;/span&gt; &lt;span class="o"&gt;*&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 

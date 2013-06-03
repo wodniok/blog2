@@ -12,18 +12,6 @@
 @import url("reset.css");
 @import url("pygment.css");
 @import url("typogrify.css");
-@import url(//fonts.googleapis.com/css?family=Yanone+Kaffeesatz&subset=latin);
-@import url(http://fonts.googleapis.com/css?family=Copse);
-@import url(http://fonts.googleapis.com/css?family=PT+Serif&subset=latin,latin-ext);
-@import url(http://fonts.googleapis.com/css?family=Domine&subset=latin,latin-ext);
-@import url(http://fonts.googleapis.com/css?family=Noto+Sans&subset=latin,latin-ext);
-@import url(http://fonts.googleapis.com/css?family=Ubuntu&subset=latin,latin-ext);
-@import url(http://fonts.googleapis.com/css?family=Source+Code+Pro&subset=latin,latin-ext);
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700,800&subset=latin,latin-ext);
-@import url(http://fonts.googleapis.com/css?family=Gentium+Book+Basic&subset=latin,latin-ext);
-@import url(http://fonts.googleapis.com/css?family=Merriweather&subset=latin,latin-ext);
-@import url(http://fonts.googleapis.com/css?family=Merriweather+Sans&subset=latin,latin-ext);
-@import url(http://fonts.googleapis.com/css?family=Old+Standard+TT);
 
 @import url(http://fonts.googleapis.com/css?family=PT+Serif+Caption&subset=latin,latin-ext);
 @import url(http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700&subset=latin,latin-ext);
@@ -109,7 +97,7 @@ ol {
 li { margin-top: 0.5em;}
 
 .post-info {
-    float:right;
+    float:left;
     margin:10px;
     padding:5px;
 }
