@@ -50,7 +50,12 @@ sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;</summary><categor
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;H3&lt;/h3&gt;
+&lt;h3&gt;H1 Header&lt;/h3&gt;
+&lt;h3&gt;H2 Header&lt;/h3&gt;
+&lt;h3&gt;H3 Header&lt;/h3&gt;
+&lt;h3&gt;H4 Header&lt;/h3&gt;
+&lt;h3&gt;H5 Header&lt;/h3&gt;
+&lt;h3&gt;H6 Header&lt;/h3&gt;
 &lt;p&gt;This is a footnote.&lt;sup id="fnref:footnote"&gt;&lt;a href="#fn:footnote" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;div class="footnote"&gt;
 &lt;hr /&gt;
