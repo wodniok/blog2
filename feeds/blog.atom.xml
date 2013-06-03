@@ -45,11 +45,13 @@ sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;</summary><categor
 &lt;ul&gt;
 &lt;li&gt;One&lt;/li&gt;
 &lt;li&gt;Two&lt;/li&gt;
-&lt;li&gt;Three&lt;/li&gt;
+&lt;li&gt;Three&lt;ul&gt;
 &lt;li&gt;Nested&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3&gt;H3&lt;/h3&gt;
-&lt;p&gt;This is a &lt;sup id="fnref:footnote"&gt;&lt;a href="#fn:footnote" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;This is a footnote.&lt;sup id="fnref:footnote"&gt;&lt;a href="#fn:footnote" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;div class="footnote"&gt;
 &lt;hr /&gt;
 &lt;ol&gt;
