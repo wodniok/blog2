@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>test - parerga - test</title><link href="http://eigenwerk.net/" rel="alternate"></link><link href="http://eigenwerk.net/feeds/all-en.atom.xml" rel="self"></link><id>http://eigenwerk.net/</id><updated>2013-05-31T23:17:00+02:00</updated><entry><title>Lore Ipsum</title><link href="http://eigenwerk.net/my-lorem-ipsum-post.html" rel="alternate"></link><updated>2013-05-31T23:17:00+02:00</updated><author><name>alexander</name></author><id>tag:eigenwerk.net,2013-05-31:my-lorem-ipsum-post.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Lorem&lt;/strong&gt; ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
 tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
 vero eos et accusam et justo duo dolores et ea rebum.&lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="#fn:1" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;p&gt;Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum
-dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
-invidunt ut &lt;em&gt;labore&lt;/em&gt; et dolore magna aliquyam erat, sed diam voluptua. At vero
-eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no
-sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;
+&lt;p&gt;Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. &lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Tabelle&lt;/th&gt;
+&lt;th&gt;Spalte&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;eins&lt;/td&gt;
+&lt;td&gt;99&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Drei&lt;/td&gt;
+&lt;td&gt;900&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut &lt;em&gt;labore&lt;/em&gt; et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;ls&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;l&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
