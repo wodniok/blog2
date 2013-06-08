@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>⌘parerga</title><link href="http://eigenwerk.net/" rel="alternate"></link><link href="http://eigenwerk.net/feeds/all-en.atom.xml" rel="self"></link><id>http://eigenwerk.net/</id><updated>2013-05-31T23:17:00+02:00</updated><entry><title>Lore Ipsum</title><link href="http://eigenwerk.net/my-lorem-ipsum-post.html" rel="alternate"></link><updated>2013-05-31T23:17:00+02:00</updated><author><name>alexander</name></author><id>tag:eigenwerk.net,2013-05-31:my-lorem-ipsum-post.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Lorem&lt;/strong&gt; ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
 tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-vero eos et accusam et justo duo dolores et ea rebum.&lt;sup id="fnref:1"&gt;&lt;a href="#fn:1" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+vero eos et accusam et justo duo dolores et ea rebum.&lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="#fn:1" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. &lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -22,14 +22,14 @@ vero eos et accusam et justo duo dolores et ea rebum.&lt;sup id="fnref:1"&gt;&lt
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut &lt;em&gt;labore&lt;/em&gt; et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;
-&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span class="n"&gt;ls&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;l&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;ls&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;l&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;p&gt;&lt;strong&gt;Lorem&lt;/strong&gt; ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
 tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
 vero eos et accusam et justo duo dolores et ea rebum. &lt;/p&gt;
-&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span class="n"&gt;Stet&lt;/span&gt; &lt;span class="n"&gt;clita&lt;/span&gt; &lt;span class="n"&gt;kasd&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;Stet&lt;/span&gt; &lt;span class="n"&gt;clita&lt;/span&gt; &lt;span class="n"&gt;kasd&lt;/span&gt;
 &lt;span class="n"&gt;gubergren&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;no&lt;/span&gt; &lt;span class="n"&gt;sea&lt;/span&gt; &lt;span class="n"&gt;takimata&lt;/span&gt; &lt;span class="n"&gt;sanctus&lt;/span&gt; &lt;span class="n"&gt;est&lt;/span&gt; &lt;span class="n"&gt;Lorem&lt;/span&gt; &lt;span class="n"&gt;ipsum&lt;/span&gt; &lt;span class="n"&gt;dolor&lt;/span&gt; &lt;span class="n"&gt;sit&lt;/span&gt; &lt;span class="n"&gt;amet&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Lorem&lt;/span&gt; &lt;span class="n"&gt;ipsum&lt;/span&gt;
 &lt;span class="n"&gt;dolor&lt;/span&gt; &lt;span class="n"&gt;sit&lt;/span&gt; &lt;span class="n"&gt;amet&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;consetetur&lt;/span&gt; &lt;span class="n"&gt;sadipscing&lt;/span&gt; &lt;span class="n"&gt;elitr&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;sed&lt;/span&gt; &lt;span class="n"&gt;diam&lt;/span&gt; &lt;span class="n"&gt;nonumy&lt;/span&gt; &lt;span class="n"&gt;eirmod&lt;/span&gt; &lt;span class="n"&gt;tempor&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
@@ -42,7 +42,7 @@ sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;ol&gt;
 &lt;li id="fn:1"&gt;
-&lt;p&gt;Parerga et Paralipomena&amp;#160;&lt;a href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Parerga et Paralipomena&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</summary><category term="note"></category></entry><entry><title>This should be a very very long image title</title><link href="http://eigenwerk.net/my-second-image-post.html" rel="alternate"></link><updated>2013-05-29T23:17:00+02:00</updated><author><name>alexander</name></author><id>tag:eigenwerk.net,2013-05-29:my-second-image-post.html</id><summary type="html">&lt;h6&gt;&lt;/h6&gt;
@@ -60,7 +60,7 @@ sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;
 &lt;li&gt;drei&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Einmal &lt;strong&gt;fett&lt;/strong&gt; und einmal &lt;em&gt;kursiv&lt;/em&gt;&lt;/p&gt;</summary><category term="note"></category></entry><entry><title>My title</title><link href="http://eigenwerk.net/my-first-post.html" rel="alternate"></link><updated>2013-05-26T23:17:00+02:00</updated><author><name>alexander</name></author><id>tag:eigenwerk.net,2013-05-26:my-first-post.html</id><summary type="html">&lt;p&gt;This is my first &lt;strong&gt;post&lt;/strong&gt;.&lt;/p&gt;
-&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span class="n"&gt;rm&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;f&lt;/span&gt; &lt;span class="o"&gt;*&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;rm&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;f&lt;/span&gt; &lt;span class="o"&gt;*&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
@@ -79,12 +79,12 @@ sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;
 &lt;h3&gt;H4 Header&lt;/h3&gt;
 &lt;h3&gt;H5 Header&lt;/h3&gt;
 &lt;h3&gt;H6 Header&lt;/h3&gt;
-&lt;p&gt;This is a footnote.&lt;sup id="fnref:footnote"&gt;&lt;a href="#fn:footnote" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;This is a footnote.&lt;sup id="fnref:footnote"&gt;&lt;a class="footnote-ref" href="#fn:footnote" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;div class="footnote"&gt;
 &lt;hr /&gt;
 &lt;ol&gt;
 &lt;li id="fn:footnote"&gt;
-&lt;p&gt;Hello world!&amp;#160;&lt;a href="#fnref:footnote" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hello world!&amp;#160;&lt;a class="footnote-backref" href="#fnref:footnote" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</summary><category term="note"></category></entry><entry><title>My image title</title><link href="http://eigenwerk.net/my-image-post.html" rel="alternate"></link><updated>2013-05-26T23:17:00+02:00</updated><author><name>alexander</name></author><id>tag:eigenwerk.net,2013-05-26:my-image-post.html</id><summary type="html">&lt;h6&gt;&lt;/h6&gt;
