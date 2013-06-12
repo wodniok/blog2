@@ -69,7 +69,10 @@ sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;
 &lt;li&gt;zwei&lt;/li&gt;
 &lt;li&gt;drei&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Einmal &lt;strong&gt;fett&lt;/strong&gt; und einmal &lt;em&gt;kursiv&lt;/em&gt;&lt;/p&gt;</summary><category term="note"></category></entry><entry><title>My title</title><link href="http://eigenwerk.net/my-first-post.html" rel="alternate"></link><updated>2013-05-26T23:17:00+02:00</updated><author><name>alexander</name></author><id>tag:eigenwerk.net,2013-05-26:my-first-post.html</id><summary type="html">&lt;p&gt;This is my first &lt;strong&gt;post&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Einmal &lt;strong&gt;fett&lt;/strong&gt; und einmal &lt;em&gt;kursiv&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;:::python
+def hello():
+    print "Hello, World!"&lt;/p&gt;</summary><category term="note"></category></entry><entry><title>My title</title><link href="http://eigenwerk.net/my-first-post.html" rel="alternate"></link><updated>2013-05-26T23:17:00+02:00</updated><author><name>alexander</name></author><id>tag:eigenwerk.net,2013-05-26:my-first-post.html</id><summary type="html">&lt;p&gt;This is my first &lt;strong&gt;post&lt;/strong&gt;.&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;rm&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;f&lt;/span&gt; &lt;span class="o"&gt;*&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
@@ -101,4 +104,9 @@ sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;
 &lt;p&gt;:date: 2012-12-01 10:02&lt;/p&gt;
 &lt;p&gt;See below intra-site link examples in Markdown format.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="TheBlackLogo" src="static/images/black.png" /&gt;
-&lt;img alt="TheBlackLogo" src="./static/images/black.png" /&gt;&lt;/p&gt;</summary><category term="note"></category></entry></feed>
+&lt;img alt="TheBlackLogo" src="./static/images/black.png" /&gt;&lt;/p&gt;
+&lt;h1&gt;!/usr/bin/python&lt;/h1&gt;
+&lt;h1&gt;hello world&lt;/h1&gt;
+&lt;p&gt;print('hello')
+def no:
+    return h&lt;/p&gt;</summary><category term="note"></category></entry></feed>
